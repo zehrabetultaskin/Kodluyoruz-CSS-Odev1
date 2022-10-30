@@ -1,0 +1,38 @@
+.h1{
+    font-family: Georgia, serif;
+    font-size: 48px;
+    font-style: bold;
+    text-align: center;
+}
+
+.h2{
+    font-family: Georgia, serif;
+    font-size: 32px;
+    font-style: italic;
+}
+.a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: palevioletred;
+    text-decoration: none;
+    text-align: center;
+}
+.th{
+    text-align: center;
+    text-decoration: none;
+    color:pink;
+    font-size: large;
+}
+.p{
+    text-align: justify;
+}
+.footer{
+    text-align: center;
+}
+.h4{
+    font-size: larger;
+}
+.img{
+    height: 300px;
+
+}
